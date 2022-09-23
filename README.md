@@ -18,7 +18,7 @@
 #
 # Information
 
-- 🌙 I’m currently learning Java, Python and HTML
+- 🌙 I’m currently learning Java, Python and JavaScript
 
 - 📁 I’m currently collaborate on [Zittla Services](github.com/zittla-services)
 
