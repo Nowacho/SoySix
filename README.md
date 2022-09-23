@@ -1,10 +1,8 @@
 # Hello 👋, I'm TestSix (Six)
 
-🌱 I’m currently learning Java, Python and HTML
+🧭 I’m currently learning Java, Python and HTML
 
-👯 I’m currently collaborate on FrozedClubDevelopment
-
-📫 How to reach me dev@ryzeon.me
+🌙 How to reach me discord.night.net
 
 # Languages and Tools:
 
