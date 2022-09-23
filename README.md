@@ -1,19 +1,36 @@
 # Hello 👋, I'm TestSix (Six)
 
+🌱 I’m currently learning Java, Python and HTML
+
+👯 I’m currently collaborate on FrozedClubDevelopment
+
+📫 How to reach me dev@ryzeon.me
+
+# Languages and Tools:
+
 <div>
-<a href="https://beacons.ai/soysix">
-<img height ="180em" src ="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme="/>
-<img height ="180em" src =""/>
+  <a href="https://beacons.ai/soysix">
+  <img align="center" src ="https://github-readme-stats.vercel.app/api?username=soysix&theme=blue-green"/>
+  <img height ="188em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=soysix&theme=blue-green"/>
+    
+   [![Discord Presence](https://lanyard.cnrad.dev/api/323628238104690688)](https://discord.com/users/323628238104690688)
+    
+    
+    
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoySix&show_icons=true&theme=radical)
-
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soysix&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 <div>
-<a href="https://beacons.ai/soysix">
-<img height ="180em" src ="[https://github-readme-stats.vercel.app/ap1?username-rafaballerini&show_icons-true&theme-dracula&include_all_commits-true&count_private-true]"/>
-<img height ="180em" src ="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+   <a href="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
+     <img src ="https://img.shields.io/badge/YouTube-FF0000?style-for-thebadge & logo - youtube & logoColor - white" target="_blank">
 </div>
-
-#
-
-[![willianrod's wakatime stats]()](https://github.com/anuraghazra/github-readme-stats)
+   ! [ Snake animation ] ( https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg )
