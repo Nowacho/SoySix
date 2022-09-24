@@ -20,8 +20,6 @@
 
 - 🌙 I’m currently learning Java, Python and JavaScript
 
-- 📁 I’m currently collaborate on [Zittla Services](github.com/zittla-services)
-
 - 🧭 How to reach me **[Night Development](github.com/discord.night.net)**
 
 <p align="center">
