@@ -20,7 +20,7 @@
 
 - 🌙 I’m currently learning Java, Python and JavaScript
 
-- 🧭 How to reach me **[Night Development](github.com/discord.night.net)**
+- 🧭 How to reach me **[Hardling Development](github.com/https://discord.com/invite/hardling)**
 
 <p align="center">
     <a href="https://discord.com/users/323628238104690688" target="_blank" rel="nofollow">
