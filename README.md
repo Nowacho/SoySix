@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+SoySix;I'm+18+years+old.;)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+No.wacho;I'm+18+years+old.;)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nowacho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -20,10 +20,4 @@
 
 - 🌙 I’m currently learning Java, Python and JavaScript
 
-- 🧭 How to reach me **! SoySix#9440**
-
-<p align="center">
-    <a href="https://discord.com/users/1079614475717586945" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/323628238104690688?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
-    </a>
-</p>
+- 🧭 How to reach me **! No.wacho#7678**
