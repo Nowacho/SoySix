@@ -21,3 +21,9 @@
 - 🌙 I’m currently learning Java, Python and JavaScript
 
 - 🧭 How to reach me **! No.wacho#7678**
+
+<p align="center">
+    <a href="https://discord.com/users/1079614475717586945" target="_blank" rel="nofollow">
+        <img src="https://lanyard-profile-readme.vercel.app/api/1079614475717586945?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
+    </a>
+</p>
