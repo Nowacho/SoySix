@@ -13,7 +13,7 @@
 
 - 🌙 I’m currently learning Kotlin and JavaScript
 
-- 🧭 How to reach me **! No.wacho#7678**
+- 🧭 How to reach me **no.wacho**
 
 <p align="center">
     <a href="https://discord.com/users/1079614475717586945" target="_blank" rel="nofollow">
