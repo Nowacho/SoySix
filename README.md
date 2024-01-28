@@ -6,7 +6,7 @@
 </div>
 
 # Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,python,mongodb,redis,maven,godot,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,mongodb,redis,maven,idea)](https://skillicons.dev)
 
 #
 # Information
