@@ -1,7 +1,7 @@
 <div align="left">
   <h1>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+NoWacho;I'm+18+years+old.;" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+NoWacho;I'm+19+years+old.;" alt="Typing SVG">
     </a>
   </h1>
   <p>Welcome to my GitHub!<br/> I'm currently exploring the realms of code and creativity. 🚀</p>
